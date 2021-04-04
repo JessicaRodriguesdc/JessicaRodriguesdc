@@ -4,6 +4,7 @@
 ### Where to find me!
 
 >[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/JessicaRodriguesdc)
+[![GitLab](https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/JessicaRodriguesdc)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jessicarodriguesdc/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/jessica.rodriguesdc/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jessicarodridc@gmail.com)
