@@ -1,5 +1,6 @@
 ## Hi, I'm Jéssica Rodrigues 👋
 
+<hr>
 
 #### Where to find me!
 
@@ -9,6 +10,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/jessica.rodriguesdc/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jessicarodridc@gmail.com)
 
+<hr>
 
 #### Languages and Tools
 
@@ -33,6 +35,8 @@
 ![TypeScript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=flat&logo=typescript&logoColor=white)
 ![Angular.js](https://img.shields.io/badge/angular.js%20-%23E23237.svg?&style=flat&logo=angularjs&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=flat&logo=firebase)
+
+<hr>
 
 #### My Stats
 
