@@ -1,4 +1,4 @@
-## Hi, 🐼 I'm Jéssica Rodrigues 👋
+# Hi, 🐼 I'm Jéssica Rodrigues 👋
 
 ## 💡 About Me
 
