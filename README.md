@@ -1,4 +1,19 @@
-## Hi, I'm Jéssica Rodrigues 👋
+## Hi, 🐼 I'm Jéssica Rodrigues 👋
+
+## 💡 About Me
+
+I am a software engineer passionate about technology and innovative solutions. I have experience in backend, and systems architecture.
+
+---
+
+## 🧭 Areas of Focus
+
+- 🧱 **Architecture & Design:** Clean Architecture • Domain-Driven Design (DDD)  
+- ⚙️ **Backend Engineering:** Java • Spring Boot • JPA • REST APIs  
+- 🧩 **Asynchronous & Event-Driven Systems**  
+- 🗄️ **Databases:** PostgreSQL • MySQL • Dockerized Environments  
+- ☁️ **DevOps & Cloud:** Kubernetes • Helm • AWS • GitHub Actions  
+- 🧪 **Quality:** Testing • Observability • CI/CD Automation  
 
 #### Where to find me!
 
@@ -7,6 +22,8 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jessicarodriguesdc/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/jessicarodriguesdc/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jessicarodridc@gmail.com)
+
+---
 
 #### Languages and Tools
 
@@ -24,6 +41,7 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?&style=flat&logo=sqlite&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku%20-%23430098.svg?&style=flat&logo=heroku&logoColor=white)
 
+---
 
 #### I am studying
 
@@ -32,8 +50,15 @@
 ![Angular.js](https://img.shields.io/badge/angular.js%20-%23E23237.svg?&style=flat&logo=angularjs&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=flat&logo=firebase)
 
+---
 
-#### My Stats
+## 📊 My Stats
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JessicaRodriguesdc&show_icons=true&theme=dracula)](https://github.com/JessicaRodriguesdc) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaRodriguesdc&show_icons=true&hide=html,teX&theme=dracula&layout=compact)](https://github.com/JessicaRodriguesdc)
+
+---
+
+## ⚙️ Motto
+
+> “Architecture is not about technology — it’s about decisions that stand the test of time.”
